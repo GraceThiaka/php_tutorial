@@ -59,12 +59,12 @@ else if($grade>50){
 else{
     {echo 'failed test';}
 }
-$greeting = "hello mary"
-$greeting =function greeting($name){
-    echo $greeting("Mary");
-}
-echo greetUser("Mary");
-$greeting ("Mariana");
+// $greeting = "hello mary";
+// $greeting = function greeting($name){
+//     echo greeting("Mary");
+// }
+// echo greetUser("Mary");
+// greeting ("Mariana");
 
 ?>
 
